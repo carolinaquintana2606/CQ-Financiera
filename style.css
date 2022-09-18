@@ -1,0 +1,292 @@
+body{
+    background-image: url("../assets/fondo7.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.header{
+    color: #1F4690;  
+}
+
+.titulo{
+    background-color:#1F4690;
+    color: #E8AA42;
+    font-family: 'Alumni Sans Inline One', cursive;
+}
+
+.titulo1{
+    font-size: 8rem;
+}
+
+.titulo2{
+    font-size: 1rem;
+}
+
+.link-nav{
+    color: #E8AA42; 
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 1.5rem;
+}
+
+.btnInicio{
+    font-family: 'Alumni Sans Inline One', cursive;
+    color: #E8AA42; 
+    font-size: 1.5rem;
+    border: none;
+    background-color: #1F4690;
+}
+
+.btnInicio:hover{
+    color:#FFE5B4;
+}
+
+.modalLogin{
+    
+    font-family: 'Righteous', cursive;
+}
+
+.btnLogin {
+    border-color: #FFE5B4;
+    border-style:double;
+    border-width: 0.2rem;
+    background-color: #E8AA42;
+    color: #1F4690;
+}
+
+.btnLogin a:hover{
+    color: #231955;
+}
+
+.loginBtn{
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 1.5rem;
+    border: none;
+    background-color:#E8AA42;
+    color:#1F4690;
+}
+
+.loginBtn:hover{
+    color:#231955;
+}
+
+
+.simular{
+    font-family: 'Righteous', cursive;
+    background-color: #1F4690;
+    color:#FFE5B4;
+    margin-bottom: 3rem;
+
+}
+
+#btnSimular{
+    border-color: #FFE5B4;
+    border-style:double;
+    border-width: 0.2rem;
+    background-color: #E8AA42;
+    color: #1F4690;
+  
+}
+
+#btnSimular:hover{
+    color: #231955;
+}
+
+#divisas{
+    background-color: #1F4690;
+    font-family: 'Righteous', cursive;
+    margin-bottom: 3rem;
+}
+
+#divisas h3{
+    color: #FFE5B4;
+}
+#cotizacion{
+    font-family: 'Righteous', cursive;
+    color: #FFE5B4;
+    
+}
+#btnSimulador{
+    border-color: #FFE5B4;
+    border-style:double;
+    border-width: 0.2rem;
+    background-color: #E8AA42;
+    color: #1F4690;
+}
+
+.tabla{
+    background-color:#FFE5B4;
+    font-family: 'Righteous', cursive;
+}
+
+.tabla thead{
+    background-color:#E8AA42;
+    
+}
+
+.tabla th{
+    color:#FFE5B4;
+    text-align: center;
+}
+.tabla td{
+text-align: center;
+   
+}
+
+#btnSolicitar{
+    font-family: 'Righteous', cursive;
+    border-color: #FFE5B4;
+    border-style:double;
+    border-width: 0.2rem;
+    background-color: #E8AA42;
+    color: #1F4690;
+    font-weight: bold;
+    
+}
+
+#btnSolicitar:hover{
+    color: #231955;
+}
+
+#FormSolicitar{
+    background-color:#1F4690;
+    font-family: 'Righteous', cursive;
+    color:#FFE5B4;
+    padding: 2.3rem;
+    padding-bottom: 0rem;
+   
+}
+
+#FormSolicitar h3{
+    color:#FFE5B4;
+    
+}
+
+#btnEnviarSol{
+    font-family: 'Righteous', cursive;
+    border-color: #FFE5B4;
+    border-style:double;
+    border-width: 0.2rem;
+    background-color: #E8AA42;
+    color: #1F4690;
+    font-weight: bold;
+}
+
+#modalInfoPrestamo{
+    background-color: #1F4690;
+    margin-right: 12.5rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    
+}
+
+#SolicitarPrestamoModal{
+    font-family: 'Righteous', cursive;
+    color:#1F4690;
+}
+
+#simDivisas{
+    background-color: #E8AA42;
+    font-family: 'Righteous', cursive;
+    color: #1F4690;
+}
+
+#btnSimularDiv{
+    font-family: 'Righteous', cursive;
+    border-color: #FFE5B4;
+    border-style:double;
+    border-width: 0.2rem;
+    background-color:#1F4690;
+    color:#E8AA42;
+   
+}
+
+.tablaDivisas{
+    color:#1F4690;
+}
+
+.btnPrestamos{
+    font-family: 'Righteous', cursive;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    border-color: #1F4690;
+    border-style:double;
+    border-width: 0.2rem;
+    background-color:#FFE5B4;
+    color:#1F4690;
+}
+
+.btnPrestamos:hover{
+    color:#231955;
+}
+
+#prestamoUsuario{
+    background-color: #1F4690;
+    font-family: 'Righteous', cursive;
+    color:#FFE5B4;
+}
+
+.nosotros{
+    font-family: 'Righteous', cursive;
+    background-color: #FFE5B4;
+}
+
+.nosotros h3{
+    color: #231955;
+}
+
+.nosotros h4{
+    color:#1F4690
+}
+
+.nosotros p{
+    color:#E8AA42;
+}
+
+.formContact{
+    font-family: 'Righteous', cursive;
+    background-color: #FFE5B4;
+}
+
+.formContact h3{
+    color: #231955;
+}
+
+.formContact label{
+    color:#1F4690
+}
+
+.btnContact{
+    font-family: 'Righteous', cursive;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+    border-color: #1F4690;
+    border-style:double;
+    border-width: 0.2rem;
+    background-color:#E8AA42;
+    color:#1F4690;
+}
+
+.contacto{
+    font-family: 'Righteous', cursive;
+}
+
+.contacto h3{
+    color: #231955;
+}
+
+.contacto p{
+    color: #1F4690;
+}
+
+.footer{
+    background-color: #FFE5B4;
+    font-family: 'Righteous', cursive;
+    opacity: 0.7;
+    color: #1F4690;
+}
